@@ -1,3 +1,8 @@
+OBS.: SE NO NAVEGADOR APARECER A MENSAGEM: FILE NOT FOUND É PORQUE NENHUM ARQUIVO .conf foi criado no diretório /etc/nginx/conf.d
+ou no diretório /etc/nginx/sites-enabled/
+
+
+
 Tutorial meu de como usar o nginx
 
 Configuração básica do nginx para usar apenas com html no servidor

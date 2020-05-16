@@ -1,6 +1,3 @@
-OBS.: PARA USAR PROJETO EM LARAVEL SEGUIR A CONFIGURACAO DO REPOSITÓRIO /ambiente
-a situacao abaixo funciona com projetos sem composer
-
 OBS.: SE NO NAVEGADOR APARECER A MENSAGEM: FILE NOT FOUND É PORQUE NENHUM ARQUIVO .conf foi criado no diretório /etc/nginx/conf.d
 ou no diretório /etc/nginx/sites-enabled/
 

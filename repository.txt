@@ -1,0 +1,4 @@
+Link de um projeto que utiliza o patter repository de forma bem simples, ótimo para confrontar com o padrão apresentado no curso de
+Laravel com Repository do Especializa TI.
+
+https://github.com/jsafe00/laravel-service-repository
